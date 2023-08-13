@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ysabeau+Office:wght@500&display=swap');
+#root {
+  position: relative;
+}
 body {
   background-color: #8e867b;
 }

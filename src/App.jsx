@@ -12,8 +12,8 @@ function App() {
           <div className="topBG" />
         </div>
         <Paper />
-        <Signature />
       </div>
+      <Signature />
     </>
   )
 }
