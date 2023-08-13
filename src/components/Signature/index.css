@@ -1,0 +1,10 @@
+.text {
+  position: absolute;
+  bottom: 5px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #504c48;
+  font-family: 'Comfortaa';
+  font-size: 18px;
+  font-weight: 300;
+}

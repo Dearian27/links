@@ -1,6 +1,7 @@
 import './App.css'
 import Button from './components/Button'
 import Paper from './components/Paper'
+import Signature from './components/Signature'
 
 function App() {
 
@@ -9,10 +10,9 @@ function App() {
       <div className="container">
         <div className="background">
           <div className="topBG" />
-          <div className="bottomBG" />
         </div>
-
         <Paper />
+        <Signature />
       </div>
     </>
   )
