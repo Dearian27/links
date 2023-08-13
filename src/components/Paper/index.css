@@ -1,5 +1,5 @@
 .paper {
-  max-width: 340px;
+  max-width: 400px;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -13,6 +13,9 @@
 
 .title {
   font-family: 'Borel', cursive;
+  font-family: 'Pacifico', cursive;
+  font-weight: 300;
+  color: #504c44;
   font-size: 40px;
   margin-top: 10px;
   height: 50px;

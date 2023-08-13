@@ -8,11 +8,14 @@ export default function Paper() {
     <div className='paper'>
       <Avatar />
       <h1 className='title'>Solution</h1>
-      <h5 className='description'>
+      {/* <h5 className='description'>
         Сучасна онлайн-школа з ефективним та цікавим підходом до занять за інтерактивною програмою!
-      </h5>
+      </h5> */}
       <h5 className='description'>
-         Записуйся на БЕЗКОШТОВНЕ пробне заняття
+        Сучасна онлайн-школа з цікавим підходом до занять та інтерактивною програмою.
+      </h5>
+      <h5 className='description' style={{flexDirection: 'row', flexWrap: "wrap"}}>
+        Записуйся на <span style={{background: "#e4dcd2", borderRadius: 5, padding: "1px 4px", width: "max-content"}}>БЕЗКОШТОВНЕ</span> пробне заняття!
       </h5>
       <Button link="https://forms.gle/WZDyXtrAM4CJ3SUL6">Запис на заняття</Button>
       <Button link="">Instagram</Button>

@@ -1,5 +1,5 @@
 import React from 'react'
-import AvatarIcon from '/avatar.jpg';
+import AvatarIcon from '/avatar.png';
 import './index.css';
 
 export default function Avatar() {
