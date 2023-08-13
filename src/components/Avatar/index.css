@@ -1,4 +1,5 @@
 .avatar {
+  object-fit: cover;
   position: absolute;
   top: 0;
   transform: translateY(-50%);
