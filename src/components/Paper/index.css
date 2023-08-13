@@ -12,9 +12,10 @@
 }
 
 .title {
+  font-family: 'Borel', cursive;
   font-size: 40px;
-  margin-top: 5px;
-  font-family: 'Ysabeau Office', sans-serif;
+  margin-top: 10px;
+  height: 50px;
 }
 .description {
   text-align: center;
