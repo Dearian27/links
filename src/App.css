@@ -1,9 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Ysabeau+Office:wght@500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Ysabeau+Office:wght@500&display=swap");
 #root {
   position: relative;
 }
 body {
   background-color: #8e867b;
+  /* background-color: #FFFDD9; */
 }
 * {
   margin: 0;
@@ -28,5 +29,5 @@ body {
   height: 250px;
   width: 100%;
   /* background-color: #f8e7d6; */
-  background-color: #eee7de;
+  background-color: #fffdd9;
 }
